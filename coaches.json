@@ -1,0 +1,31 @@
+[ {
+  "id" : "C-100",
+  "name" : "Coach Arnold",
+  "specialization" : null,
+  "experienceYears" : 0,
+  "assignedUsers" : [ {
+    "id" : "U-500",
+    "name" : "John Doe",
+    "membershipStatus" : "ACTIVE",
+    "healthAttributes" : null,
+    "workout" : {
+      "id" : "W-001",
+      "type" : null,
+      "description" : "Monday Routine",
+      "durationInMinutes" : 60,
+      "date" : null,
+      "exercises" : [ {
+        "equipment" : null,
+        "name" : "Bench Press",
+        "sets" : 3,
+        "reps" : 10
+      }, {
+        "equipment" : null,
+        "name" : "Pushups",
+        "sets" : 3,
+        "reps" : 15
+      } ]
+    },
+    "workoutHistory" : [ ]
+  } ]
+} ]

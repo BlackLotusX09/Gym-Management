@@ -1,0 +1,63 @@
+[ {
+  "id" : "U-800",
+  "name" : "Gym Rat",
+  "membershipStatus" : "ACTIVE",
+  "healthAttributes" : {
+    "id" : "HA-1",
+    "age" : 25,
+    "height" : 180,
+    "weight" : 85,
+    "gender" : "male",
+    "dailySteps" : 10000,
+    "caloriesBurnedToday" : 500.0,
+    "activeMinutes" : 60
+  },
+  "workout" : null,
+  "workoutHistory" : [ ]
+}, {
+  "id" : "U001",
+  "name" : "John Doe",
+  "membershipStatus" : null,
+  "healthAttributes" : {
+    "id" : null,
+    "age" : 22,
+    "height" : 175,
+    "weight" : 70,
+    "gender" : "male",
+    "dailySteps" : 5000,
+    "caloriesBurnedToday" : 350.0,
+    "activeMinutes" : 45
+  },
+  "workout" : null,
+  "workoutHistory" : [ ]
+}, {
+  "id" : "U001",
+  "name" : "John Doe",
+  "membershipStatus" : null,
+  "healthAttributes" : null,
+  "workout" : null,
+  "workoutHistory" : [ ]
+}, {
+  "id" : "U003",
+  "name" : "Alice",
+  "membershipStatus" : null,
+  "healthAttributes" : {
+    "id" : "U003",
+    "age" : 30,
+    "height" : 165,
+    "weight" : 60,
+    "gender" : "female",
+    "dailySteps" : 4000,
+    "caloriesBurnedToday" : 250.0,
+    "activeMinutes" : 35
+  },
+  "workout" : null,
+  "workoutHistory" : [ ]
+}, {
+  "id" : "U010",
+  "name" : "Bob",
+  "membershipStatus" : null,
+  "healthAttributes" : null,
+  "workout" : null,
+  "workoutHistory" : [ ]
+} ]
