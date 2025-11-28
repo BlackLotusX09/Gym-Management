@@ -1,0 +1,17 @@
+[ {
+  "id" : "U-800",
+  "name" : "Gym Rat",
+  "membershipStatus" : "ACTIVE",
+  "healthAttributes" : {
+    "id" : "HA-1",
+    "age" : 25,
+    "height" : 180,
+    "weight" : 85,
+    "gender" : "male",
+    "dailySteps" : 10000,
+    "caloriesBurnedToday" : 500.0,
+    "activeMinutes" : 60
+  },
+  "workout" : null,
+  "workoutHistory" : [ ]
+} ]
