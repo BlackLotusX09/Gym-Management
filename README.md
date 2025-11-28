@@ -62,7 +62,7 @@ GET	    /bookings	View all active bookings.
 
     Sankalp Gadamsetty   : CoachController.java, Coach.java, CoachRepository.java , CoachService.java
 
-    Miyyapuram Varun     : EquipmentController , EquipmentService , EquipmentRepository , Equipment.java
+    Miyyapuram Varun     : HealthAttributes.java , HealthAttributesRepository.java , HealthAttributesService.java , HealthAttributesController.java 
 
     Gangavarapu Jashwanth: DietPlan.java , DietSchedule.java , DietRoe.java , HealthAttributes.java ,
                            HealthAttributesRepository.java , HealthAttributesService.java , HealthAttributesController.java 
